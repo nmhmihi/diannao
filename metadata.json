@@ -1,0 +1,6 @@
+{
+  "name": "Ôn Tập 題組 1-6 — Học Access, Excel & Word",
+  "description": "Ứng dụng tổng hợp video hướng dẫn giải đề 題組六 đến 題組一 (Access, Excel, Word) với giao diện dịu mắt, dễ nhìn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
